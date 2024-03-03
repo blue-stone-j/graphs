@@ -1,2 +1,2 @@
 # graphs
-Draw graphs and charts
+This repository concentrate on drawing graphs and charts from statistics.
